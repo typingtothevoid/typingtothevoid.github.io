@@ -3,7 +3,7 @@ layout: post
 title:  "Wiki Pettiness"
 date:   2022-06-08 14:35:05 -0400
 categories: wikipedia
-tags: baseball wikipedia ncaa
+tags: baseball wikipedia ncaa louisville michigan
 ---
 Here is some great Wikipedia pettiness from a (I'm assuming) Michigan fan after a brutal loss to Louisville that eliminated them from the NCAA Tournament.
 
