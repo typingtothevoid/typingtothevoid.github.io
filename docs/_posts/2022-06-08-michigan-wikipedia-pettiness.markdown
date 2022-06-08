@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wiki Pettiness"
+title:  "Michigan Wikipedia Pettiness"
 date:   2022-06-08 14:35:05 -0400
 categories: wikipedia
 tags: baseball wikipedia ncaa louisville michigan
