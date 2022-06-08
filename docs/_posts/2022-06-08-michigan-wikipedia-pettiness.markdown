@@ -13,4 +13,4 @@ Here's a link to the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1oN-d8lUci0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To be fair, this is a bad blown call. I'm not blaming the initial call (that's why we have review!) but then to not overturn it is rough and justifies the pettiness.
+To be fair, this is a bad blown call. I'm not blaming the initial call (that's why we have review!) but then to not overturn it is rough.
